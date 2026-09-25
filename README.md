@@ -1,2 +1,3 @@
-# projeto_3bim_gerentecrud
-Um simples gerenciador de funcionarios
+# TECH AERO
+
+<p>Este é um simples site de gerenciamento de funcionários/gerentes feito em PHP e JQuery</p>
