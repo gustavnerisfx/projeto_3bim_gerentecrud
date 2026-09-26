@@ -1,23 +1,26 @@
-#TECH AERO
+# TECH AERO
 
-##Sobre o projeto
+## Sobre o projeto
 
-<p>Este é um simples site de gerenciamento de funcionários/gerentes feito em PHP e JQuery, e hospedado no InfitityFree</p>
+O **Tech Aero** é um sistema web simples para gerenciamento de funcionários e gerentes, desenvolvido utilizando **PHP, jQuery, HTML e CSS**. O projeto foi criado com o objetivo de praticar o desenvolvimento web, integração com banco de dados e construção de interfaces utilizando o Bootstrap.
 
-## Linguagens e Bibliotecas utilizadas
+O projeto está hospedado na plataforma **InfinityFree**.
 
-<p>Para a criação desse site as seguintes linguagens e bibliotecas foram utilizadas:</p>
+## Tecnologias utilizadas
 
-<ul>
-  <li>PHP</li>
-  <li>HTML5</li>
-  <li>CSS3</li>
-  <li>JQuery</li>
-  <li>Bootstrap 5.3</li>
-  <li>FontAwesome</li>
-</ul>
+Para o desenvolvimento do projeto, foram utilizadas as seguintes tecnologias e bibliotecas:
 
-## Desing
+* **PHP** — desenvolvimento do back-end e integração com o banco de dados
+* **HTML5** — estrutura das páginas
+* **CSS3** — estilização e personalização da interface
+* **jQuery** — manipulação do DOM e interações com a página
+* **Bootstrap 5.3** — criação da interface e componentes responsivos
+* **Font Awesome** — utilização de ícones na interface
 
-<p>O desing foi inspirado em estéticas como o frutiger aero, mas ainda mantendo aspectos modernos.</p>
-<p>A escolha por uma paleta de verde pastel foi por inspiração ao linux mint, dando um desing mais soft</p>
+## Design
+
+O design do Tech Aero foi inspirado na estética **Frutiger Aero**, combinando elementos visuais leves e coloridos com uma abordagem moderna e funcional.
+
+A paleta de cores utiliza principalmente tons de **verde pastel**, inspirados visualmente no **Linux Mint**, buscando transmitir uma sensação de leveza, aconchego e simplicidade.
+
+A interface também utiliza elementos translúcidos, gradientes e componentes com aparência suave para reforçar a identidade visual do projeto.
