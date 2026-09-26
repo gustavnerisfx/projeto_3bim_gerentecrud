@@ -1,5 +1,7 @@
 # TECH AERO
 
+## Sobre o projeto
+
 <p>Este é um simples site de gerenciamento de funcionários/gerentes feito em PHP e JQuery, e hospedado no InfitityFree</p>
 
 ## Linguagens e Bibliotecas utilizadas
@@ -15,4 +17,4 @@
   <li>FontAwesome</li>
 </ul>
 
-
+## Desing
