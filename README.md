@@ -1,6 +1,6 @@
-<h1>TECH AERO</h1>
+#TECH AERO
 
-<h2>Sobre o projeto</h2>
+##Sobre o projeto
 
 <p>Este é um simples site de gerenciamento de funcionários/gerentes feito em PHP e JQuery, e hospedado no InfitityFree</p>
 
@@ -18,3 +18,6 @@
 </ul>
 
 ## Desing
+
+<p>O desing foi inspirado em estéticas como o frutiger aero, mas ainda mantendo aspectos modernos.</p>
+<p>A escolha por uma paleta de verde pastel foi por inspiração ao linux mint, dando um desing mais soft</p>
