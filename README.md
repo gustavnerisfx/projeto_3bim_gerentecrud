@@ -1,6 +1,4 @@
-# TECH AERO
-
-## Sobre o projeto
+# Sobre o projeto
 
 O **Tech Aero** é um sistema web simples para gerenciamento de funcionários e gerentes, desenvolvido utilizando **PHP, jQuery, HTML5 e CSS3**. O projeto foi criado com o objetivo de praticar o desenvolvimento web, integração com banco de dados e construção de interfaces utilizando o Bootstrap.
 
