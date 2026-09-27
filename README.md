@@ -27,4 +27,4 @@ A interface também utiliza elementos translúcidos, gradientes e componentes co
 
 ## Algumas imagens do projeto
 
-![imagem do projeto](navegador.png)
+![imagem do projeto](telainicial.png)
