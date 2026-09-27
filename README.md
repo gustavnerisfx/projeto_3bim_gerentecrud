@@ -10,12 +10,12 @@ O projeto está hospedado na plataforma **InfinityFree**.
 
 Para o desenvolvimento do projeto, foram utilizadas as seguintes tecnologias e bibliotecas:
 
-* **PHP** — desenvolvimento do back-end e integração com o banco de dados
-* **HTML5** — estrutura das páginas
-* **CSS3** — estilização e personalização da interface
-* **jQuery** — manipulação do DOM e interações com a página
-* **Bootstrap 5.3** — criação da interface e componentes responsivos
-* **Font Awesome** — utilização de ícones na interface
+* **PHP**
+* **HTML5**
+* **CSS3**
+* **jQuery**
+* **Bootstrap 5.3**
+* **Font Awesome**
 
 ## Design
 
