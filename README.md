@@ -26,3 +26,5 @@ A paleta de cores utiliza principalmente tons de **verde pastel**, inspirados vi
 A interface também utiliza elementos translúcidos, gradientes e componentes com aparência suave para reforçar a identidade visual do projeto.
 
 ## Algumas imagens do projeto
+
+![imagem do projeto](navegador.png)
